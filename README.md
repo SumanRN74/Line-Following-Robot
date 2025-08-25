@@ -1,7 +1,7 @@
 # Arduino Based Black Line Follower Robot
 
 ## Introduction
-An interesting project that incorporates robotics, electronics, and programming is building a line follower robot. We’ll walk you through the process of creating your very own black line follower robot on an Arduino platform in this blog article. This project is a fantastic chance to practice your programming abilities in a real-world scenario, in addition to learning a lot about robotics. Now let’s dig in and discover the intriguing realm of robots that follow lines!
+An interesting project that incorporates robotics, electronics, and programming is building a line follower robot. We’ll walk you through the process of creating your very own black line follower robot on an Arduino platform. This project is a fantastic chance to practice your programming abilities in a real-world scenario, in addition to learning a lot about robotics. Now let’s dig in and discover the intriguing realm of robots that follow lines!
 
 ---
 
