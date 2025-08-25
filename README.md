@@ -69,4 +69,11 @@ The `pinMode` parameter in the `setup()` method determines whether the IR sensor
 
 The software uses `digitalRead` in the `loop()` method to determine the current statuses of the left (`L_S`) and right (`R_S`) infrared sensors. The robot’s movement is controlled by invoking the relevant function (`forword()`, `turnRight()`, `turnLeft()`, or `Stop()`) based on the sensor data.  
 
-Based on the sensor data, these routines regulate the robot’s movement. They identify each motor’s orientation by applying the proper blends of HIGH and LOW signals to the motor driver pins.  
+Based on the sensor data, these routines regulate the robot’s movement. They identify each motor’s orientation by applying the proper blends of HIGH and LOW signals to the motor driver pins. 
+
+
+
+## 👨‍💻 Author
+**Suman R N**  
+📧 Contact: sumansurn@gmail.com  
+
